@@ -1,0 +1,2 @@
+# blast-game-static
+
